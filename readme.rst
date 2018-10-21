@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Tution management system
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
